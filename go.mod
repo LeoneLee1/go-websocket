@@ -1,4 +1,4 @@
-module go-chat
+module go-websocket
 
 go 1.25.3
 
